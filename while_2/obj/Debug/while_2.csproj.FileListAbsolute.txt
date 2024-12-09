@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\while_2\bin\Debug\while_2.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\while_2\bin\Debug\while_2.exe
+C:\Users\1409-12\Desktop\Наталия 9а\while_2\bin\Debug\while_2.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\while_2\obj\Debug\while_2.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\while_2\obj\Debug\while_2.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\while_2\obj\Debug\while_2.exe
+C:\Users\1409-12\Desktop\Наталия 9а\while_2\obj\Debug\while_2.pdb

@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\Suma\Suma\bin\Debug\Suma.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\Suma\Suma\bin\Debug\Suma.exe
+C:\Users\1409-12\Desktop\Наталия 9а\Suma\Suma\bin\Debug\Suma.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\Suma\Suma\obj\Debug\Suma.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\Suma\Suma\obj\Debug\Suma.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\Suma\Suma\obj\Debug\Suma.exe
+C:\Users\1409-12\Desktop\Наталия 9а\Suma\Suma\obj\Debug\Suma.pdb
